@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Backend E-commerce Application",
+        "description": "This is a backend application for an E-commerce webiste that was built using JavaScript, Node.js, Express.js API, Sequelize, and MySQL. This application was created so that a user within a company can compete with other e-commerce companies.",
+        "github": "https://github.com/ZmCoder2/e-commerce",
+        "live": "https://drive.google.com/file/d/1ve4eVm4CU78A0XTpsOHKquJoafX7Jqjv/view"
+    },
+    {
+        "name": "Logo Generator",
+        "description": "This application allows users to be able to generate a logo with three characters, three different options of shapes, and be able to choose the color of the text and shape by just answering four questions with node.js.",
+        "github": "https://github.com/ZmCoder2/logo-generator",
+        "live": "https://drive.google.com/file/d/17j-HO6D28D1hrhl1zgNRVLduRq5elAYK/view"
+    },
+    {
+        "name": "Social Network API",
+        "description": "This is a and API for a social network that uses a NoSQL database. So a user's wesite can handle large mamounts of unstructured data.",
+        "github": "https://github.com/ZmCoder2/social-network-api",
+        "live": "https://drive.google.com/file/d/1-YL3hZm5Ky0CwpVxWOVsw8D5Rs4k_ZNU/view"
+    }
+]
