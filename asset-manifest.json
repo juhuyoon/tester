@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tester/static/css/main.9e15debe.css",
+    "main.js": "/tester/static/js/main.04147633.js",
+    "static/media/helvetica-neu.ttf": "/tester/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/tester/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/tester/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/tester/index.html",
+    "main.9e15debe.css.map": "/tester/static/css/main.9e15debe.css.map",
+    "main.04147633.js.map": "/tester/static/js/main.04147633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e15debe.css",
+    "static/js/main.04147633.js"
+  ]
+}
